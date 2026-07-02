@@ -1,0 +1,57 @@
+header { background-image: url("images/hairsalon.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    color:white;
+    text-align:center;
+    padding: 20px;
+}
+body{
+    background-image: url("images/hairsalon.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    font-family: Arial;
+    text-align: center;
+    
+}
+h1 { 
+    color:white;
+
+}
+body{
+    font: arial;
+
+}
+h2{
+    color:darkblue
+}
+p{
+
+    color:black;
+    font-weight:bold;
+
+
+
+    font-size:20px;
+
+}
+ul{
+
+    list-style-position:inside;
+    color:black;
+    font-weight:bold;
+
+}
+
+ol{
+
+    list-style-position:inside;
+    color:black;
+    font-weight:bold;
+
+
+}
+h2{
+    color:darkblue;
+}
