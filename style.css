@@ -1,4 +1,4 @@
-header { background-image: url("images/hairsalon.jpg");
+header { background-image: url("images/hair.jpg");
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -7,7 +7,7 @@ header { background-image: url("images/hairsalon.jpg");
     padding: 20px;
 }
 body{
-    background-image: url("images/hairsalon.jpg");
+    background-image: url("images/hair.jpg");
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
